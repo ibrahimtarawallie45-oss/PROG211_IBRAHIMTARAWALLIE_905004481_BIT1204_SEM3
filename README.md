@@ -15,8 +15,6 @@ A simple Python library management system built for the PROG211 assignment. It a
 - `operations.py` – Core functions and global data structures.
 - `demo.py` – Demonstrates all features.
 - `tests.py` – Unit tests with `assert`.
-- `UML.png/pdf` – Hand-drawn UML diagram.
-- `DesignRationale.pdf` – Explanation of data structure choices.
 - `README.md` – This file.
 
 ## How to Run
