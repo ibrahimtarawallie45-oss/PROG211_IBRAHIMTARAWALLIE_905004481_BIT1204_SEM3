@@ -1,4 +1,4 @@
-# Mini Library Management System
+# Library Management System
 
 A simple Python library management system built for the PROG211 assignment. It allows adding, searching, updating, deleting, borrowing, and returning books.
 
